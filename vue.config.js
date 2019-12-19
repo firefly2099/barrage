@@ -1,18 +1,9 @@
 module.exports = {
   publicPath: "./",
 
-  // : "https://pinganeleme.togoalad.com/191118/",
-
   devServer: {
     // hot: true,
     // clientLogLevel: "warning",
-    /*proxy: {
-      "/191212": {
-        target: "https://pinganeleme.togoalad.com",
-        changeOrigin: true,
-        pathRewrite: {}
-      }
-    }*/
   },
 
   pages: {

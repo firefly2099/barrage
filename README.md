@@ -1,5 +1,7 @@
 # Vue弹幕
 
+DEMO: https://www.firefly2099.com/test/barrage/
+
 ## Project setup
 ```
 npm install / cnpm install
