@@ -1,8 +1,8 @@
-# 12-insurance-policy
+# Vue弹幕
 
 ## Project setup
 ```
-yarn install
+npm install / cnpm install
 ```
 
 ### Compiles and hot-reloads for development
